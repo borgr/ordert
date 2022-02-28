@@ -1,0 +1,8 @@
+{
+  "d_embed": 512,
+  "vocab_size": 32001,
+  "d_model": 512,
+  "n_layer": 18,
+  "n_head": 16,
+  "attention_probs_dropout_prob": 0.1
+}
