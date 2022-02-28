@@ -1,0 +1,7 @@
+Data none of the bellow work out-of-the-box:
+TBC - https://towardsdatascience.com/replicating-the-toronto-bookcorpus-dataset-a-write-up-44ea7b87d091
+Wiki - XLM
+
+Training:
+Adapted from RoBerta training in https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/
+Inspired also by https://huggingface.co/blog/how-to-train
